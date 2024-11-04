@@ -231,7 +231,7 @@ Turns out that in California, just like in New York, R&D and marketing are where
 
 Our visualizations reinforce that strategic investments in R&D and marketing are key drivers of profitability across these states.
 
- ---
+
 
 ## Investment Strategies Based on Analysis
 
