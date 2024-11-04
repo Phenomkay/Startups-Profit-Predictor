@@ -1,4 +1,4 @@
-# Startups Profit Prediction
+# Startups Profit Analysis and Predictive Modelling
 
 An analysis and a Machine Learning-based web application that predicts startup profitability based on R&D, Administration, and Marketing spend in different states using a trained model deployed with Streamlit.
 
@@ -231,8 +231,9 @@ Turns out that in California, just like in New York, R&D and marketing are where
 
 Our visualizations reinforce that strategic investments in R&D and marketing are key drivers of profitability across these states.
 
+ ---
 
-**Investment Strategies Based on Analysis**
+## Investment Strategies Based on Analysis
 
 **Overview**: 
 
