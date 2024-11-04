@@ -356,5 +356,3 @@ streamlit run app.py
 ## Conclusion
 
 This project provides valuable insights into the relationship between startup spending and profit, offering predictions that can assist in investment decisions. The model indicates R&D spending is a critical factor, with a higher impact on profitability compared to other areas. This interactive application serves as a practical tool for potential startups and investors.
-
-```
