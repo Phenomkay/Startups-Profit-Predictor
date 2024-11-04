@@ -339,7 +339,7 @@ The model was deployed using **Streamlit** with a user-friendly interface:
 
 1. **Input Fields**: For R&D, Administration, and Marketing spend, plus state selection.
 2. **Prediction**: Displays profit prediction based on user inputs.
-3. **Styling**: Applied custom CSS for a refined interface.
+3. **Styling**: Applied custom CSS for a refined interface. Feel free to interact with the app and make your predictions [HERE](https://startups-profit-predictor-app.streamlit.app/)
 
  ---
 
